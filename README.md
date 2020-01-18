@@ -9,7 +9,7 @@
 ## 🚀 Instalação e execução
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd bootcamp-reactjs-desafio-04`;
+2. Entre na pasta rodando `cd bootcamp-react-native-desafio-01`;
 3. Rode `yarn` para instalar as dependências;
 4. Rode `yarn react-native run-ios` ou `yarn react-native run-android` dependendo do SO.
 
